@@ -1,0 +1,28 @@
+
+
+
+
+//color de fondo
+$colorBg: rgb(47, 43, 112); 
+$colorDegrade:linear-gradient(138deg, rgb(66, 61, 175) 0%, rgb(98, 98, 223) 43%, rgb(23, 62, 70) 100%); 
+$colorTitulos:  whitesmoke;
+//termina color de fondo
+
+*{
+
+padding: 0;
+margin: 0;
+
+}
+
+html{
+
+    font-size: 62.5%;
+
+}
+
+body{
+background-color: $colorBg;
+background: linear-gradient($colorDegrade);
+
+}

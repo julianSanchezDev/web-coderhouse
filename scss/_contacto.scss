@@ -1,0 +1,29 @@
+#formularioContacto {
+
+font-size: 2em;
+color: $colorPrincipal;
+
+div{
+
+    input{
+        font-size: 1em;
+    }
+
+    button{
+
+        background-color: $colorPrincipal;
+        font-size: 0.8em;
+    }
+
+}
+
+}
+
+#footerContacto{
+width: 100%;
+background-color: bisque;
+position: static;
+bottom: 0;
+
+
+}
